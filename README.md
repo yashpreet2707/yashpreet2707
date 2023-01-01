@@ -9,9 +9,6 @@
 A 1st-year student pursuing Bachelors in Computer science studies, from DIT Dehradun. I am a Web developer enthusiast.
 </h5>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashpreet2707&label=Profile%20views&color=0e75b6&style=flat" alt=“Yashpreet”2707 /> 
-</p>
-
 <hr>
 
 * 🔭 I’m a first year B.Tech student from Dehradun Institute of Technology, Dehradun.
@@ -23,6 +20,9 @@ A 1st-year student pursuing Bachelors in Computer science studies, from DIT Dehr
 * 📫 How to reach me: yashpreet1686@gmail.com
 
 <br>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashpreet2707&label=Profile%20views&color=0e75b6&style=flat" alt=“Yashpreet”2707 /> 
+</p>
 
 <p align="left"> <a href="https://twitter.com/yashpreet2707" target="blank"><img src="https://img.shields.io/twitter/follow/yashpreet2707?logo=twitter&style=for-the-badge" alt="yashpreet2707" /></a>
 </p>
@@ -48,6 +48,7 @@ A 1st-year student pursuing Bachelors in Computer science studies, from DIT Dehr
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 </p>
 
+<hr>
 <br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashpreet2707&show_icons=true&locale=en&layout=compact" alt="yashpreet2707" /></p>
