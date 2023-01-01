@@ -26,15 +26,15 @@ A 1st-year student pursuing Bachelors in Computer science studies, from DIT Dehr
 </p>
 <hr>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 
-<p align="left">
+<p align="center">
 <a href="https://twitter.com/yashpreet2707" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="ishikakesarwan4" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;<a href="https://linkedin.com/in/yashpreet2707" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="yashpreet2707" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://instagram.com/yashpreet_2707" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="yashpreet_2707" height="50" width="50" /></a>
 </p>
 
 <hr>
 
-<center><h3>Languages and Tools:</h3></center>
+<h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
