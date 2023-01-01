@@ -38,6 +38,12 @@ A 1st-year student pursuing Bachelors in Computer science studies, from DIT Dehr
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 </p>
 
+<h3 align="left">Connect with me:</h3>
+
+<p align="left">
+<a href="https://twitter.com/yashpreet2707" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="ishikakesarwan4" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;<a href="https://linkedin.com/in/yashpreet2707" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="yashpreet2707" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://instagram.com/yashpreet_2707" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="yashpreet_2707" height="50" width="50" /></a>
+</p>
+
 
 <p>
 <a align= "center" href="https://github.com/ishikkkkaaaa">
@@ -46,11 +52,6 @@ A 1st-year student pursuing Bachelors in Computer science studies, from DIT Dehr
 </p>
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=yashpreet2707&count_private=true&theme=radical&show_icons=true" />
 
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-<a href="https://twitter.com/yashpreet2707" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="ishikakesarwan4" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;<a href="https://linkedin.com/in/yashpreet2707" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="yashpreet2707" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://instagram.com/yashpreet_2707" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="yashpreet_2707" height="50" width="50" /></a>
-</p>
 
 
 <p align="center">
