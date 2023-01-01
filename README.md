@@ -49,15 +49,13 @@ A 1st-year student pursuing Bachelors in Computer science studies, from DIT Dehr
 </p>
 
 <hr>
-<br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashpreet2707&show_icons=true&locale=en&layout=compact" alt="yashpreet2707" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashpreet2707&show_icons=true&locale=en" alt="yashpreet2707" /></p>
-
-
-<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashpreet2707&" alt="yashpreet2707" /></p>
-
+<p>
+<a align= "center" href="https://github.com/ishikkkkaaaa">
+<img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=yashpreet2707&theme=radical">
+<img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a>
+</p>
+<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=yashpreet2707&count_private=true&theme=radical&show_icons=true" />
 
 <hr>
 
