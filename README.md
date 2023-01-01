@@ -55,9 +55,8 @@ A 1st-year student pursuing Bachelors in Computer science studies, from DIT Dehr
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashpreet2707&show_icons=true&locale=en" alt="yashpreet2707" /></p>
 
-<br>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashpreet2707&" alt="yashpreet2707" /></p>
+<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashpreet2707&" alt="yashpreet2707" /></p>
 
 
 <hr>
