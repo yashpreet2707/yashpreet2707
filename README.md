@@ -22,9 +22,11 @@ A 1st-year student pursuing Bachelors in Computer science studies, from DIT Dehr
 * 🤝 I’m eager to know about opportunities which will help me in expanding my potential.
 * 📫 How to reach me: yashpreet1686@gmail.com
 
+<br>
+
 <p align="left"> <a href="https://twitter.com/yashpreet2707" target="blank"><img src="https://img.shields.io/twitter/follow/yashpreet2707?logo=twitter&style=for-the-badge" alt="yashpreet2707" /></a>
 </p>
-<hr>
+
 
 <h3 align="center">Connect with me:</h3>
 
@@ -32,7 +34,6 @@ A 1st-year student pursuing Bachelors in Computer science studies, from DIT Dehr
 <a href="https://twitter.com/yashpreet2707" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="ishikakesarwan4" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;<a href="https://linkedin.com/in/yashpreet2707" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="yashpreet2707" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://instagram.com/yashpreet_2707" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="yashpreet_2707" height="50" width="50" /></a>
 </p>
 
-<hr>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
