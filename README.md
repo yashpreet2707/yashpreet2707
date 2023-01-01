@@ -48,11 +48,13 @@ A 1st-year student pursuing Bachelors in Computer science studies, from DIT Dehr
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 </p>
 
+<br>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashpreet2707&show_icons=true&locale=en&layout=compact" alt="yashpreet2707" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashpreet2707&show_icons=true&locale=en" alt="yashpreet2707" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=yashpreet2707&show_icons=true&locale=en" alt="yashpreet2707" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashpreet2707&" alt="yashpreet2707" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashpreet2707&" alt="yashpreet2707" /></p>
 
 
 <hr>
