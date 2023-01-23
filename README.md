@@ -21,8 +21,7 @@ A 1st-year student pursuing Bachelors in Computer science studies, from DIT Dehr
 
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashpreet2707&label=Profile%20views&color=0e75b6&style=flat" alt=“Yashpreet”2707 /> 
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashpreet2707&label=Profile%20views&color=0e75b6&style=flat" alt="yashpreet2707" /> </p>
 
 <p align="left"> <a href="https://twitter.com/yashpreet2707" target="blank"><img src="https://img.shields.io/twitter/follow/yashpreet2707?logo=twitter&style=for-the-badge" alt="yashpreet2707" /></a>
 </p>
