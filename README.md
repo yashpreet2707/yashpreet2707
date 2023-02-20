@@ -6,7 +6,7 @@
 </h1>
 
 <h5 align="center">
-A 1st-year student pursuing Bachelors in Computer science studies, from DIT Dehradun. I am a Web developer & open source enthusiast.
+A 1st-year student pursuing Bachelors in Computer science studies, from DIT Dehradun. I am a Web developer & learning DSA currently.
 </h5>
 
 <hr>
