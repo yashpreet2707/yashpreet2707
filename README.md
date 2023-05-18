@@ -42,7 +42,7 @@ A 1st-year student pursuing Bachelors in Computer science studies, from DIT Univ
 
 <p align="center">
          <img src="./assets/skills/git.png/" width="50px">
-         <img src="./assets/skills/github.png/" width="50px">
+         <img src="https://cdn.iconscout.com/icon/free/png-512/free-github-159-721954.png?f=avif&w=512" width="50px">
          <img src="./assets/skills/python.png/" width="50px">
          <img src="./assets/skills/c.png/" width="50px">
          <img src="./assets/skills/cpp.png/" width="50px">
