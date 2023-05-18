@@ -49,6 +49,7 @@ A 1st-year student pursuing Bachelors in Computer science studies, from DIT Univ
          <img src="./assets/skills/html.png/" width="50px">
          <img src="./assets/skills/css.png/" width="50px">
          <img src="./assets/skills/js.png/" width="50px">
+         <img src="./assets/skills/jquery.png/" width="50px">
          <img src="./assets/skills/bootstrap.png/" width="50px">
          <img src="./assets/skills/vs code.png/" width="50px">
          <img src="./assets/skills/netlify.png/" width="50px">
