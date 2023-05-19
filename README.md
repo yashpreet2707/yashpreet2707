@@ -40,7 +40,7 @@ A 1st-year student pursuing Bachelors in Computer science studies, from DIT Univ
 
 <!-- <h2>Tech Stack : </h2>     -->
 
-<p align="center">
+<!-- <p align="center">
          <img src="./assets/skills/git.png/" width="50px">
          <img src="https://cdn.iconscout.com/icon/free/png-512/free-github-159-721954.png?f=avif&w=512" width="50px">
          <img src="./assets/skills/python.png/" width="50px">
@@ -53,7 +53,14 @@ A 1st-year student pursuing Bachelors in Computer science studies, from DIT Univ
          <img src="./assets/skills/bootstrap.png/" width="50px">
          <img src="./assets/skills/vs code.png/" width="50px">
          <img src="./assets/skills/netlify.png/" width="50px">
-         <img src="./assets/skills/team work.png/" width="50px">
+         <img src="./assets/skills/team work.png/" width="50px"> 
+</p> -->
+
+<p align="center">
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,python,c,cpp,html,css,js,jquery,bootstrap,vscode,netlify" />
+  </a>
          
 </p>
 
@@ -63,4 +70,5 @@ A 1st-year student pursuing Bachelors in Computer science studies, from DIT Univ
          <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=yashpreet2707&theme=radical">
          <br>
 <!--          <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=yashpreet2707&count_private=true&theme=radical&show_icons=true" /> -->
+
 </p>
