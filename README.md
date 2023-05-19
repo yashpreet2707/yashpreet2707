@@ -67,8 +67,9 @@ A 1st-year student pursuing Bachelors in Computer science studies, from DIT Univ
 <hr>
 
 <p align="center">
-         <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=yashpreet2707&theme=radical">
+         
+         <img alt="stats card" height="200px" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=yashpreet2707&theme=radical">
          <br>
-<!--          <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=yashpreet2707&count_private=true&theme=radical&show_icons=true" /> -->
+         <img alt="stats card" height="250px" width="600px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashpreet2707&theme=radical&show_icons=true">
 
 </p>
