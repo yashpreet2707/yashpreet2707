@@ -20,7 +20,7 @@ A 1st-year student pursuing Bachelors in Computer science studies, from DIT Univ
          <img src="https://komarev.com/ghpvc/?username=yashpreet2707&label=Profile%20views&color=0e75b6&style=flat" alt="yashpreet2707" /> 
 </p>
          
-- 🔭 I’m a **first year B.Tech student from DIT, Dehradun.**
+- 🔭 I’m a <strike>**first year</strike> B.Tech student from DIT, Dehradun.**
   
 - 🌞 I am an **open-source enthusiast** and a **front-end developer** along with other skills like C & C++.
 
