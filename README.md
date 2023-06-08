@@ -4,7 +4,7 @@
          I'm Yashpreet Singh
 </h1>
 <h5 align="center">
-A <strike>1st-year</strike> student pursuing Bachelors in Computer science studies, from DIT University. I am a Web developer & learning DSA currently.
+Sophomore pursuing Bachelors in Computer science studies, from DIT University. I am a Web developer & learning DSA currently.
 </h5>
 
 
@@ -20,11 +20,10 @@ A <strike>1st-year</strike> student pursuing Bachelors in Computer science studi
          <img src="https://komarev.com/ghpvc/?username=yashpreet2707&label=Profile%20views&color=0e75b6&style=flat" alt="yashpreet2707" /> 
 </p>
          
-- 🔭 I’m a <strike>**first year</strike> B.Tech student from DIT, Dehradun.**
   
-- 🌞 I am an **open-source enthusiast** and a **front-end developer** along with other skills like C & C++.
+- 🌞 I am an **open-source enthusiast** and an aspiring **full-stack front-end developer** along with other skills like C & C++.
 
-- 📙 In my free time, I love to research about various programs and learn about open-source.
+<!-- - 📙 In my free time, I love to research about various programs and learn about open-source. -->
 
 - 🌱 I’m currently focusing on **DSA.**
 
@@ -32,7 +31,7 @@ A <strike>1st-year</strike> student pursuing Bachelors in Computer science studi
 
 - 🤝 I’m eager to know about **opportunities which will help me in expanding my potential.**
 
-- ⚡ **I love to know about people and their stories.**
+<!-- - ⚡ **I love to know about people and their stories.** -->
 
 - 📫 How to reach me : **yashpreet1686@gmail.com**
 
