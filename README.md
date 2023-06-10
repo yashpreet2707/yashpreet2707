@@ -60,8 +60,8 @@ Sophomore pursuing Bachelors in Computer science studies, from DIT University. I
   <a href="https://skillicons.dev">
 <!--     <img src="https://skillicons.dev/icons?i=git,github,python,c,cpp,html,css,js,jquery,bootstrap,vscode,netlify" /> -->
     <img src="https://skillicons.dev/icons?i=git,github,python,c,cpp" />
-    <img src="https://skillicons.dev/icons?i=html,css,js" />
-   <img src="https://skillicons.dev/icons?i=jquery,bootstrap,vscode,netlify" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,jquery" />
+   <img src="https://skillicons.dev/icons?i=bootstrap,vscode,netlify,postman" />
   </a>
          
 </p>
