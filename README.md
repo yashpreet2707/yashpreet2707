@@ -4,7 +4,7 @@
          I'm Yashpreet Singh
 </h1>
 <h5 align="center">
-Sophomore pursuing Bachelors in Computer science studies, from DIT University. I am a Web developer & learning DSA currently.
+A freshmen pursuing Bachelors in Computer science studies, from DIT University. I am a Web developer & learning DSA currently.
 </h5>
 
 
@@ -74,6 +74,6 @@ Sophomore pursuing Bachelors in Computer science studies, from DIT University. I
          <br>
          <img  alt="stats card" height="200px" width="400px" src="https://github-readme-stats.vercel.app/api?username=yashpreet2707&count_private=true&theme=radical&show_icons=true">
          <br>
-         <img alt="stats card" height="250px" width="600px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashpreet2707&theme=radical&show_icons=true">
+<!--          <img alt="stats card" height="250px" width="600px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashpreet2707&theme=radical&show_icons=true"> -->
          <br>
 </p>
