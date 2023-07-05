@@ -68,7 +68,6 @@ A freshmen pursuing Bachelors in Computer science studies, from DIT University. 
 
 <hr>
 
-
 <p align="center">
          <img  alt="stats card" height="200px" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=yashpreet2707&theme=radical">
          <br>
@@ -77,3 +76,11 @@ A freshmen pursuing Bachelors in Computer science studies, from DIT University. 
 <!--          <img alt="stats card" height="250px" width="600px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashpreet2707&theme=radical&show_icons=true"> -->
          <br>
 </p>
+
+## Blogs
+
+<img align="right" width="282" height="120" src="https://github.com/yashpreet2707/yashpreet2707/assets/111020648/72ca5d0b-8238-4931-9001-b3051c77c7a2">
+
+<br>
++ I wrote my first every blog, <a href="https://www.showwcase.com/show/35597/api-explaining-it-to-a-complete-newbie">Explaining APIs to a complete Newbie</a>, for Blogathon conducted by <a href="https://github.com/GrowInCommunity">GrowIn Community</a> and <a href="https://github.com/Showwcase">Showwcase</a>. It went viral and was trending for 3 days straight! I'm so grateful for all the support and engagement I received. It's been an amazing experience.
+
