@@ -4,7 +4,7 @@
          I'm Yashpreet Singh
 </h1>
 <h5 align="center">
-A freshmen pursuing Bachelors in Computer science studies, from DIT University. I am a Web developer & learning DSA currently.
+A Sophomore pursuing Bachelor's in Computer science, from DIT University. I am a Web developer & learning DSA currently.
 </h5>
 
 
@@ -13,6 +13,7 @@ A freshmen pursuing Bachelors in Computer science studies, from DIT University. 
          <a href="https://linkedin.com/in/yashpreet2707/" target="_blank"> <img src="./assets/linkedin.png" alt="twitter" width="50px"></a>
          <a href="https://instagram.com/yashpreet_2707/" target="_blank"> <img src="./assets/instagram.png" alt="twitter" width="50px"></a>
          <a href="https://wa.me/+919050833611/" target="_blank"> <img src="./assets/whatsapp.png" alt="twitter" width="50px"></a>
+
 </p>
 
 <hr>
@@ -60,8 +61,8 @@ A freshmen pursuing Bachelors in Computer science studies, from DIT University. 
   <a href="https://skillicons.dev">
 <!--     <img src="https://skillicons.dev/icons?i=git,github,python,c,cpp,html,css,js,jquery,bootstrap,vscode,netlify" /> -->
     <img src="https://skillicons.dev/icons?i=git,github,python,c,cpp" />
-    <img src="https://skillicons.dev/icons?i=html,css,js,jquery" />
-   <img src="https://skillicons.dev/icons?i=bootstrap,vscode,netlify,postman" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,jquery,nodejs,expressjs" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,vscode,netlify,postman" />
   </a>
          
 </p>
@@ -82,5 +83,5 @@ A freshmen pursuing Bachelors in Computer science studies, from DIT University. 
 <img align="right" width="282" height="120" src="https://github.com/yashpreet2707/yashpreet2707/assets/111020648/72ca5d0b-8238-4931-9001-b3051c77c7a2">
 
 <br>
-+ I wrote my first every blog, <a href="https://www.showwcase.com/show/35597/api-explaining-it-to-a-complete-newbie">Explaining APIs to a complete Newbie</a>, for Blogathon conducted by <a href="https://github.com/GrowInCommunity">GrowIn Community</a> and <a href="https://github.com/Showwcase">Showwcase</a>. It went viral and was trending for 3 days straight! I'm so grateful for all the support and engagement I received. It's been an amazing experience.
+I wrote my first every blog, <a href="https://www.showwcase.com/show/35597/api-explaining-it-to-a-complete-newbie">Explaining APIs to a complete Newbie</a>, for Blogathon conducted by <a href="https://github.com/GrowInCommunity">GrowIn Community</a> and <a href="https://github.com/Showwcase">Showwcase</a>. It went viral and was trending for 3 days straight! I'm so grateful for all the support and engagement I received. It's been an amazing experience.
 
