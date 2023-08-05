@@ -77,6 +77,8 @@ A Sophomore pursuing Bachelor's in Computer science, from DIT University. I am a
          <br>
 </p>
 
+<hr>
+
 ## Blogs
 
 <img align="right" width="282" height="120" src="https://github.com/yashpreet2707/yashpreet2707/assets/111020648/72ca5d0b-8238-4931-9001-b3051c77c7a2">
