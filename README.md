@@ -11,7 +11,7 @@ A Sophomore pursuing Bachelor's in Computer science, from DIT University. I am a
 <p align="center">
 <a href="https://twitter.com/yashpreet2707/" target="_blank"> <img src="./assets/twitter.png" alt="twitter" width="50px"></a>
 <a href="https://linkedin.com/in/yashpreet2707/" target="_blank"> <img src="./assets/linkedin.png" alt="linkedin" width="50px"></a>
-<a href="https://instagram.com/yashpreet_2707/" target="_blank"> <img src="./assets/instagram.png" alt="instagram" width="50px"></a>
+<a href="https://instagram.com/yashpreet2707/" target="_blank"> <img src="./assets/instagram.png" alt="instagram" width="50px"></a>
 <a href="https://wa.me/+919050833611/" target="_blank"> <img src="./assets/whatsapp.png" alt="whatsapp" width="50px"></a>
 </p>
 
