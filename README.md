@@ -3,6 +3,9 @@
          <img src="./assets/wave.gif" alt="Waving hand animated gif" height="40" width="40"/>
          I'm Yashpreet Singh
 </h1>
+<!-- ![twitter](https://github.com/yashpreet2707/yashpreet2707/assets/111020648/db08edfe-d1d4-4ac8-b456-611dcda2a7b6) -->
+<!-- ![linkedin](https://github.com/yashpreet2707/yashpreet2707/assets/111020648/ff149499-f3dd-4885-b74a-fe7b26e73ec8) -->
+
 <h5 align="center">
 A Sophomore pursuing Bachelor's in Computer science, from DIT University. I am a Web developer & learning DSA currently.
 </h5>
@@ -10,9 +13,11 @@ A Sophomore pursuing Bachelor's in Computer science, from DIT University. I am a
 
 <p align="center">
 <a href="https://twitter.com/yashpreet2707/" target="_blank"> <img src="./assets/twitter.png" alt="twitter" width="50px"></a>
+<!-- <a href="https://twitter.com/yashpreet2707/" target="_blank"> <img src="https://github.com/yashpreet2707/yashpreet2707/assets/111020648/db08edfe-d1d4-4ac8-b456-611dcda2a7b6" alt="twitter" width="50px"></a> -->
 <a href="https://linkedin.com/in/yashpreet2707/" target="_blank"> <img src="./assets/linkedin.png" alt="linkedin" width="50px"></a>
-<a href="https://instagram.com/yashpreet2707/" target="_blank"> <img src="./assets/instagram.png" alt="instagram" width="50px"></a>
-<a href="https://wa.me/+919050833611/" target="_blank"> <img src="./assets/whatsapp.png" alt="whatsapp" width="50px"></a>
+<!-- <a href="https://linkedin.com/in/yashpreet2707/" target="_blank"> <img src="(https://github.com/yashpreet2707/yashpreet2707/assets/111020648/ff149499-f3dd-4885-b74a-fe7b26e73ec8" alt="linkedin" width="50px"></a> -->
+<!-- <a href="https://instagram.com/yashpreet2707/" target="_blank"> <img src="./assets/instagram.png" alt="instagram" width="50px"></a> -->
+<!-- <a href="https://wa.me/+919050833611/" target="_blank"> <img src="./assets/whatsapp.png" alt="whatsapp" width="50px"></a> -->
 </p>
 
 <hr>
