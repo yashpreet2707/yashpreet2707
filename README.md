@@ -7,7 +7,7 @@
 <!-- ![linkedin](https://github.com/yashpreet2707/yashpreet2707/assets/111020648/ff149499-f3dd-4885-b74a-fe7b26e73ec8) -->
 
 <h5 align="center">
-A Sophomore pursuing Bachelor's in Computer science, from DIT University. I am a Web developer & learning DSA currently.
+A Sophomore pursuing Bachelor's in Computer science. I am an aspiring full stack web developer 💻, an open source enthusiast 🥑 and loves communities.
 </h5>
 
 
@@ -26,7 +26,7 @@ A Sophomore pursuing Bachelor's in Computer science, from DIT University. I am a
 </p>
          
   
-- 🌞 I am an **open-source enthusiast** and an aspiring **full-stack front-end developer** along with other skills like C & C++.
+- 🌞 I am an **open-source enthusiast** and an aspiring **full-stack front-end developer**.
 
 <!-- - 📙 In my free time, I love to research about various programs and learn about open-source. -->
 
@@ -36,7 +36,7 @@ A Sophomore pursuing Bachelor's in Computer science, from DIT University. I am a
 
 - 🤝 I’m eager to know about **opportunities which will help me in expanding my potential.**
 
-<!-- - ⚡ **I love to know about people and their stories.** -->
+- ⚡ **I love to know about people and their stories.** 
 
 - 📫 How to reach me : **yashpreet1686@gmail.com**
 
