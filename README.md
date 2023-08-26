@@ -86,8 +86,18 @@ A Sophomore pursuing Bachelor's in Computer science. I am an aspiring full stack
 
 ## Blogs
 
-<img align="right" width="282" height="120" src="https://github.com/yashpreet2707/yashpreet2707/assets/111020648/72ca5d0b-8238-4931-9001-b3051c77c7a2">
+<img align="right" width="282" height="130" src="https://github.com/yashpreet2707/yashpreet2707/assets/111020648/72ca5d0b-8238-4931-9001-b3051c77c7a2">
 
 <br>
 I wrote my first every blog, <a href="https://www.showwcase.com/show/35597/api-explaining-it-to-a-complete-newbie">Explaining APIs to a complete Newbie</a>, for Blogathon conducted by <a href="https://github.com/GrowInCommunity">GrowIn Community</a> and <a href="https://github.com/Showwcase">Showwcase</a>. It went viral and was trending for 3 days straight! I'm so grateful for all the support and engagement I received. It's been an amazing experience.
+
+<br><br>
+<br>
+
+<img align="left" width="230" height="120" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1693048965667/e68ec320-ed15-4388-8e62-955cbd9e82e0.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp">
+
+<br>
+I wrote a blog on <a href="https://yashpreet2707.hashnode.dev/my-postman-student-leader-journey">My Postman Student Leader Journey</a> on Hashnode. In the blog, discuss my journey from being a beginner in API development and testing to becoming a certified Postman Student Expert. I also share some of the key learnings and takeaways from my experience.
+
+
 
