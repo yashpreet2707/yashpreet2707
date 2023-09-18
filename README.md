@@ -66,7 +66,7 @@ A Sophomore pursuing Bachelor's in Computer science. I am an aspiring full stack
 <!--     <img src="https://skillicons.dev/icons?i=git,github,python,c,cpp,html,css,js,jquery,bootstrap,vscode,netlify" /> -->
     <img src="https://skillicons.dev/icons?i=git,github,python,c,cpp" />
     <img src="https://skillicons.dev/icons?i=html,css,js,jquery,nodejs,expressjs" />
-    <img src="https://skillicons.dev/icons?i=bootstrap,vscode,netlify,postman" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,tailwindcss,vscode,netlify,postman" />
   </a>
          
 </p>
