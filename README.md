@@ -26,7 +26,7 @@ A Sophomore pursuing Bachelor's in Computer science. I am an aspiring full stack
 </p>
          
   
-- 🌞 I am an **open-source enthusiast** and an aspiring **full-stack front-end developer**.
+- 🌞 I am an **open-source enthusiast** and an aspiring **full-stack developer**.
 
 <!-- - 📙 In my free time, I love to research about various programs and learn about open-source. -->
 
