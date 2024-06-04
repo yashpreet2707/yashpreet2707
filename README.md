@@ -86,6 +86,14 @@ A Sophomore pursuing Bachelor's in Computer science. I am an aspiring full stack
 
 ## Blogs
 
+<img align="left" width="230" height="120" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1717360890996/98f4b2a5-94a2-4394-968e-4fb72cc57b32.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp">
+
+<br>
+Wrote a blog on <a href="https://yashpreet2707.hashnode.dev/getting-started-with-ejs-embedded-javascript-templates">Getting Started with EJS: Embedded JavaScript templates</a> on Hashnode. Checkout the blog to understand templating is by creating a basic EJS template, learn about various EJS tags and the project structre in the Node.js application in a beginner friendly way.
+
+<br><br>
+<br>
+
 <img align="right" width="282" height="130" src="https://github.com/yashpreet2707/yashpreet2707/assets/111020648/72ca5d0b-8238-4931-9001-b3051c77c7a2">
 
 <br>
