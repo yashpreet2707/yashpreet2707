@@ -86,6 +86,14 @@ A Sophomore pursuing Bachelor's in Computer science. I am an aspiring full stack
 
 ## Blogs
 
+<img align="right" width="230" height="120" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1718003315330/57ea324e-ee9a-4649-a1dd-617a03b81f65.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp">
+
+<br>
+Wrote a blog on <a href="https://yashpreet2707.hashnode.dev/github-markdown-a-beginners-guide">GitHub Markdown: A Beginner's Guide</a> on Hashnode. In this blog post on Hashnode, I delve into what Markdown is, its functionalities, and all basic writing and formatting syntax that you can use in your repos to make it good-looking.
+
+<br><br>
+<br>
+
 <img align="left" width="230" height="120" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1717360890996/98f4b2a5-94a2-4394-968e-4fb72cc57b32.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp">
 
 <br>
