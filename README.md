@@ -12,12 +12,14 @@ Pre-final year student pursuing a Bachelor's in Computer science. I am a full-st
 
 
 <p align="center">
-<a href="https://twitter.com/yashpreet2707/" target="_blank"> <img src="./assets/twitter.png" alt="twitter" width="50px"></a>
-<!-- <a href="https://twitter.com/yashpreet2707/" target="_blank"> <img src="https://github.com/yashpreet2707/yashpreet2707/assets/111020648/db08edfe-d1d4-4ac8-b456-611dcda2a7b6" alt="twitter" width="50px"></a> -->
-<a href="https://linkedin.com/in/yashpreet2707/" target="_blank"> <img src="./assets/linkedin.png" alt="linkedin" width="50px"></a>
-<!-- <a href="https://linkedin.com/in/yashpreet2707/" target="_blank"> <img src="(https://github.com/yashpreet2707/yashpreet2707/assets/111020648/ff149499-f3dd-4885-b74a-fe7b26e73ec8" alt="linkedin" width="50px"></a> -->
-<a href="https://instagram.com/yashpreet2707/" target="_blank"> <img src="./assets/instagram.png" alt="instagram" width="50px"></a>
-<a href="https://wa.me/+919050833611/" target="_blank"> <img src="./assets/whatsapp.png" alt="whatsapp" width="50px"></a>
+<!-- <a href="https://twitter.com/yashpreet2707/"><img src="https://skillicons.dev/icons?i=twitter"/></a>
+<a href="https://linkedin.com/in/yashpreet2707/"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href="https://instagram.com/yashpreet2707/"><img src="https://skillicons.dev/icons?i=instagram"/></a>
+<a href="https://wa.me/+919050833611/"><img src="https://skillicons.dev/icons?i=whatsapp"/></a> -->
+<a href="https://twitter.com/yashpreet2707/" target="_blank"> <img src="./assets/twitter.png" alt="twitter" width="60px"></a>
+<a href="https://linkedin.com/in/yashpreet2707/" target="_blank"> <img src="./assets/linkedin.png" alt="linkedin" width="60px"></a>
+<a href="https://instagram.com/yashpreet2707/" target="_blank"> <img src="./assets/instagram.png" alt="instagram" width="60px"></a>
+<a href="https://wa.me/+919050833611/" target="_blank"> <img src="./assets/whatsapp.png" alt="whatsapp" width="60px"></a>
 </p>
 
 <p align="left"> 
