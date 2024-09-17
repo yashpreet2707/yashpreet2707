@@ -51,9 +51,10 @@ Pre-final year student pursuing a Bachelor's in Computer science. I am a full-st
 
   <a href="https://skillicons.dev">
 <!--     <img src="https://skillicons.dev/icons?i=git,github,python,c,cpp,html,css,js,jquery,bootstrap,vscode,netlify" /> -->
-    <img src="https://skillicons.dev/icons?i=git,github,python,c,cpp" />
-    <img src="https://skillicons.dev/icons?i=html,css,js,jquery,nodejs,expressjs,react,redux" />
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,bootstrap,tailwindcss,vscode,vim,netlify,vercel,postman,azure" />
+    <img src="https://skillicons.dev/icons?i=git,github,python,c,cpp,html,css" />
+    <img src="https://skillicons.dev/icons?i=js,jquery,nodejs,expressjs,react,redux" />
+    <img src="https://skillicons.dev/icons?i=redux,mysql,mongodb,postgres,bootstrap,tailwindcss" />
+<img src="https://skillicons.dev/icons?i=vscode,vim,netlify,vercel,postman,azure" />
   </a>
          
 </p>
