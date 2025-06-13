@@ -7,8 +7,11 @@
 <!-- ![linkedin](https://github.com/yashpreet2707/yashpreet2707/assets/111020648/ff149499-f3dd-4885-b74a-fe7b26e73ec8) -->
 
 <h5 align="center">
-Pre-final year student pursuing a Bachelor's in Computer science. I am a full-stack developer 💻, and I love communitites 🥑.
+Final year student pursuing a Bachelor's in Computer Science. I am a Full-Stack Developer 💻, and I love communities 🥑.
 </h5>
+<p align="center">
+Check out my <a href="https://yashpreetsingh.vercel.app">Portfolio Website</a>
+</p>
 
 
 <p align="center">
@@ -52,9 +55,9 @@ Pre-final year student pursuing a Bachelor's in Computer science. I am a full-st
   <a href="https://skillicons.dev">
 <!--     <img src="https://skillicons.dev/icons?i=git,github,python,c,cpp,html,css,js,jquery,bootstrap,vscode,netlify" /> -->
     <img src="https://skillicons.dev/icons?i=git,github,python,c,cpp,html,css" />
-    <img src="https://skillicons.dev/icons?i=js,jquery,nodejs,expressjs,react,redux" />
-    <img src="https://skillicons.dev/icons?i=firebase,mysql,mongodb,postgres,bootstrap,tailwindcss" />
-<img src="https://skillicons.dev/icons?i=vscode,vim,netlify,vercel,postman,azure" />
+    <img src="https://skillicons.dev/icons?i=js,ts,jquery,nodejs,expressjs,react,next" />
+    <img src="https://skillicons.dev/icons?i=redux,firebase,mysql,mongodb,postgres,bootstrap,tailwindcss" />
+<img src="https://skillicons.dev/icons?i=vscode,vim,netlify,vercel,postman,azure,docker" />
   </a>
          
 </p>
